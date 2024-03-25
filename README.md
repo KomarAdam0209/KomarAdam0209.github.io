@@ -1,1 +1,0 @@
-# komaradam.github.io
