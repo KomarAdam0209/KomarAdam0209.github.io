@@ -1,0 +1,53 @@
+.hasab {
+    display: inline-block;
+    padding: 6px;
+    width: 420px;
+    text-align: justify;
+}
+h2{
+    width: 96%;
+    color: #a52a2a;
+    font-style: italic;
+    background-color: white;
+}
+
+
+footer {
+
+
+}
+html{
+    width: 960px;
+    background-color: chocolate;
+    margin: auto;
+}
+header{
+    
+}
+ul{
+    list-style-type: none;
+}
+li{
+    display: inline;
+    border-color: brown;
+    width: 50px;
+    padding: 6px;
+    border-right: 2px solid brown;
+    border-top: 0px solid chocolate;
+    border-bottom: 0px solid chocolate;
+    color: white;
+}
+.u{
+    border: 0px solid chocolate;
+}
+.kep{
+    width: 100px;
+    border: 2px solid brown;
+    float: left;
+}
+p{
+    border: 10px;
+}
+hr{
+    color: black;
+}
