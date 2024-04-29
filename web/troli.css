@@ -57,6 +57,6 @@ p{
   padding: 10px;
   border-radius: 10px; 
   }
-#felGomb.hover{
+#felGomb:hover{
   background-color: #555:
 }
